@@ -1,1 +1,2 @@
-Hello , ABCD File is Created
+Hello , ABCD File is Created 
+This is text file
